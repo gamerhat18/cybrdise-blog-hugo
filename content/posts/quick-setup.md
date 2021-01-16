@@ -24,7 +24,7 @@ curl -sSL https://git.io/JLxkS | bash
 
 >Here are the things that it does on Linux:
 >
->1. Updates repositories via *sudo apt update*.
+>1. Updates repositories via `sudo apt update`.
 >2. Downloads and Installs TeamViewer.
 >3. Installs ZSH and Oh-My-ZSH.
 >4. Replaces .zshrc & .bashrc with my personal rc files.
