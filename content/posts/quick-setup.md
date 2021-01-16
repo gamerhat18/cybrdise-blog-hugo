@@ -19,7 +19,9 @@ Here are the things that it does on Linux:
 
 1. Update repositories
 2. Downloads and Installs TeamViewer
-3. Installs ZSH and replaces .zshrc & .bashrc with my personal 
+3. Installs ZSH and Oh-My-ZSH
+4. Replaces .zshrc & .bashrc with my personal rc files
+5. Gets other scripts for more personalized configurations
 
 Linux (without sudo):
 
