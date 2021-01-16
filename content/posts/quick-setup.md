@@ -1,5 +1,5 @@
 ---
-title: "Quick Setup"
+title: "Quick Setup Trial"
 date: 2021-01-16T12:02:16+05:30
 author: "Pranav Kulkarni"
 authorTwitter: "" #do not include @
