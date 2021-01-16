@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CYBRDiSE</title>
+    <link>https://blog.cybrdise.com/tags/</link>
+    <description>Recent content in Tags on CYBRDiSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 12:02:16 +0530</lastBuildDate><atom:link href="https://blog.cybrdise.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASAP</title>
+      <link>https://blog.cybrdise.com/tags/asap/</link>
+      <pubDate>Sat, 16 Jan 2021 12:02:16 +0530</pubDate>
+      
+      <guid>https://blog.cybrdise.com/tags/asap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RemoteDesktop</title>
+      <link>https://blog.cybrdise.com/tags/remotedesktop/</link>
+      <pubDate>Sat, 16 Jan 2021 12:02:16 +0530</pubDate>
+      
+      <guid>https://blog.cybrdise.com/tags/remotedesktop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
