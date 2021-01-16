@@ -1,13 +1,12 @@
 ---
-title: "Quick Setup Trial"
+title: "Quick Setup"
 date: 2021-01-16T12:02:16+05:30
 author: "Pranav Kulkarni"
 authorTwitter: "" #do not include @
 cover: ""
 tags: ["RemoteDesktop", "ASAP"]
 keywords: ["TeamViewer", "Setup"]
-description: "A Simple way for everyone to setup a new remote PC from scratch. 
-                Doesn't matter what OS"
+description: "A Simple way for everyone to setup a new remote PC from scratch, regardless of the Operating system."
 showFullContent: false
 draft: false
 ---
