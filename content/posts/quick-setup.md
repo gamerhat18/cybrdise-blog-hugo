@@ -15,6 +15,12 @@ draft: false
 Here are some one liners for quick and easy first setups of various operating systems.
 Check out this to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
 
+Here are the things that it does on Linux:
+
+<ol>
+    <li>Update repositories</li>
+</ol>
+
 Linux (without sudo):
 
 ```bash
