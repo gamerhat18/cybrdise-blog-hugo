@@ -2,7 +2,7 @@
 title = "Android Debloat"
 date = "2021-01-16T15:20:32+05:30"
 author = "Pranav Kulkarni"
-authorTwitter = "" #do not include @
+authorTwitter = "gamerhat18" #do not include @
 cover = ""
 tags = ["Android", "Debloat"]
 keywords = ["Android", "debloat"]
