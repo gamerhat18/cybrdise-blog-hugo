@@ -28,7 +28,8 @@ Here are the things that it does on Linux:
 2. Downloads and Installs TeamViewer
 3. Installs ZSH and Oh-My-ZSH
 4. Replaces .zshrc & .bashrc with my personal rc files
-5. Gets other scripts for more personalized configurations
+5. Opens TeamViewer and I ask the client to send a picture of the id and password
+6. Gets other scripts for more personalized configurations
 
 Windows (Administrator Privileges needed):
 
@@ -40,6 +41,7 @@ Here are the things that it does on Windows:
 
 1. Installs Chocolatey
 2. Downloads and Installs TeamViewer
-3. Installs ZSH and Oh-My-ZSH
-4. Replaces .zshrc & .bashrc with my personal rc files
-5. Gets other scripts for more personalized configurations
+3. Installs QBittorent from Chocolatey for downloading Linux ISO(s)
+4. Downloads Rufus for writing the ISO to a USB Stick.
+5. Opens TeamViewer and I ask the client to send a picture of the id and password
+6. Gets other scripts for more personalized configurations
