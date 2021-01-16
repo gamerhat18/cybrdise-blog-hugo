@@ -12,6 +12,7 @@ showFullContent: false
 draft: false
 ---
 
+
 Here are some one liners for quick and easy first setups of various operating systems.
 Check out this to learn more [https://github.com/gamerhat18/quick-setup](https://github.com/gamerhat18/quick-setup)
 
