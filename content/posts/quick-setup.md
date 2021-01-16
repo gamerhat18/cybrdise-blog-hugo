@@ -12,7 +12,7 @@ draft: false
 ---
 
 
-Here are some one liners for quick and easy first setups of various operating systems.
+Here are some one-liners for quick and easy first setups of various operating systems.
 Check out this to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
 
 
@@ -24,12 +24,12 @@ curl -sSL https://git.io/JLxkS | bash
 
 >Here are the things that it does on Linux:
 >
->1. Update repositories
->2. Downloads and Installs TeamViewer
->3. Installs ZSH and Oh-My-ZSH
->4. Replaces .zshrc & .bashrc with my personal rc files
->5. Opens TeamViewer and I ask the client to send a picture of the id and password
->6. Gets other scripts for more personalized configurations
+>1. Updates repositories via *sudo apt update*.
+>2. Downloads and Installs TeamViewer.
+>3. Installs ZSH and Oh-My-ZSH.
+>4. Replaces .zshrc & .bashrc with my personal rc files.
+>5. Opens TeamViewer and I ask the client to send a picture of the id and password.
+>6. Gets other scripts for more personalized configurations.
 
 ## Windows (Administrator Privileges needed):
 
@@ -39,9 +39,9 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JtUwY'))
 
 >Here are the things that it does on Windows:
 >
->1. Installs Chocolatey
->2. Downloads and Installs TeamViewer
->3. Installs QBittorent from Chocolatey for downloading Linux ISO(s)
+>1. Installs Chocolatey.
+>2. Downloads and Installs TeamViewer.
+>3. Installs QBittorent from Chocolatey for downloading Linux ISO(s).
 >4. Downloads Rufus for writing the ISO to a USB Stick.
->5. Opens TeamViewer and I ask the client to send a picture of the id and password
->6. Gets other scripts for more personalized configurations
+>5. Opens TeamViewer and I ask the client to send a picture of the id and password.
+>6. Gets other scripts for more personalized configurations.
