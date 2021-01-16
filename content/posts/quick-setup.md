@@ -6,7 +6,7 @@ authorTwitter: "gamerhat18" #do not include @
 cover: ""
 tags: ["RemoteDesktop", "ASAP"]
 keywords: ["TeamViewer", "Setup"]
-description: "A Simple way for everyone to setup a new remote PC from scratch, regardless of the Operating system."
+description: "A Simple way for everyone to setup a new remote PC from scratch,  regardless of the Operating system."
 showFullContent: false
 draft: false
 ---
@@ -17,9 +17,9 @@ Check out this to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-
 
 Here are the things that it does on Linux:
 
-<ol>
-    <li>Update repositories</li>
-</ol>
+1. Update repositories
+2. Downloads and Installs TeamViewer
+3. Installs ZSH and replaces .zshrc & .bashrc with my personal 
 
 Linux (without sudo):
 
