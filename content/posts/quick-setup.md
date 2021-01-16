@@ -15,6 +15,13 @@ draft: false
 Here are some one liners for quick and easy first setups of various operating systems.
 Check out this to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
 
+
+Linux (without sudo):
+
+```bash
+curl -sSL https://git.io/JLxkS | bash
+```
+
 Here are the things that it does on Linux:
 
 1. Update repositories
@@ -23,14 +30,16 @@ Here are the things that it does on Linux:
 4. Replaces .zshrc & .bashrc with my personal rc files
 5. Gets other scripts for more personalized configurations
 
-Linux (without sudo):
-
-```bash
-curl -sSL https://git.io/JLxkS | bash
-```
-
 Windows (Administrator Privileges needed):
 
 ```powershell
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JtUwY'))
 ```
+
+Here are the things that it does on Windows:
+
+1. Installs Chocolatey
+2. Downloads and Installs TeamViewer
+3. Installs ZSH and Oh-My-ZSH
+4. Replaces .zshrc & .bashrc with my personal rc files
+5. Gets other scripts for more personalized configurations
