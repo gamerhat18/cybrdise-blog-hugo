@@ -8,24 +8,24 @@ tags = ["Android", "Debloat"]
 keywords = ["Android", "debloat"]
 description = "An easy guide for android-debloat project"
 showFullContent = false
-draft = true
+draft = false
 +++
 
 
 # Android Debloater
 
-Forked from [https://gitlab.com/W1nst0n/universal-android-debloater](https://gitlab.com/W1nst0n/universal-android-debloater)
-
 **DISCLAIMER**: Use this script at your own risk. I am not responsible if your phone explodes or your alarm doesn't work and you wake up late.
 
-## Summary
-I try to maintain a universal tool which removes bloatwares on any Android phones by using ADB.
+## You can check out the project [here](https://github.com/gamerhat18/android-debloat)
 
-The main goal is to improve battery performance and privacy by removing unnecessary and obscure system apps. This can also contribute to improve security by reducing [the attack surface](https://en.wikipedia.org/wiki/Attack_surface). The script has a menu that lets you choose what debloat list you want to use. I strongly encourage you to take a look at the lists because the default selection may not suit you. All packages are as well documented as possible in order to provide a better understanding of what you can delete or not.
+The main goal of this project is to improve battery-life and privacy by removing bloatware. The script has a menu that lets you choose what debloat list you want to use. I strongly encourage you to take a look at the lists because the default selection might not suit you. Almost all packages are documented in order to avoid mishappenings.
 
-This script *should* be safe with the default selection. The worse thing which could happen is preventing an essential system process to be loaded during boot causing then an unfortunate bootloop. After about 5 failed system boots, the phone will automatically reboot in recovery mode and you'll have to perform a FACTORY RESET. So make a backup! 
+>Note
+>
+>This script is safe with the default selection. The worse thing which could happen is preventing an essential failing to load during boot causing a bootloop. After about 5 failed system boots, the phone reboots in recovery mode & you will have to perform a FACTORY RESET. So backup your data. 
 
-In any case, you can NOT brick your device with this script! That's the main thing, right?
+>Tip:
+>You can always FACTORY RESET your phone if in case something goes wrong! 
 
 ## Features 
 * [X] Quick search among all the packages of your phone
