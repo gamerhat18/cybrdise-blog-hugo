@@ -12,47 +12,30 @@ draft = false
 +++
 
 
-# Android Debloater
-
-**DISCLAIMER**: Use this script at your own risk. I am not responsible if your phone explodes or your alarm doesn't work and you wake up late.
-
-## You can check out the project [here](https://github.com/gamerhat18/android-debloat)
+## You can check out the project [here](https://github.com/gamerhat18/android-debloat).
 
 The main goal of this project is to improve battery-life and privacy by removing bloatware. The script has a menu that lets you choose what debloat list you want to use. I strongly encourage you to take a look at the lists because the default selection might not suit you. Almost all packages are documented in order to avoid mishappenings.
 
->Note
+>`Tip:`
+>You can always FACTORY RESET your phone if in case something goes wrong! So please make a Backup of everything.
+
+>`Note:`
 >
->This script is safe with the default selection. The worse thing which could happen is preventing an essential failing to load during boot causing a bootloop. After about 5 failed system boots, the phone reboots in recovery mode & you will have to perform a FACTORY RESET. So backup your data. 
+>This script is safe with the default options. The worse case scenario is an essential service failing to load during boot, causing a reboot. After about 5 failed system reboots, the phone boots into recovery mode & you will have to perform a FACTORY RESET. So backup your data. 
 
->Tip:
->You can always FACTORY RESET your phone if in case something goes wrong! 
 
-## Features 
-* [X] Quick search among all the packages of your phone
-* [X] Uninstallation of system/user packages (manually or with the debloat lists)
-* [X] Reinstallation of system packages (manually or with the debloat lists)
-* [X] ADB backup/restore (not really reliable, see the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ))
+## You can:
+* [X] `Quick search` all the packages in your phone
+* [X] `Uninstall` or `Reinstall` system/user packages (manually or with the debloat lists)
+* [X] ADB backup/restore (Limited functionality, see the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ#there-is-no-debloat-list-for-my-phones-brand-can-you-add-it-))
 * [X] Device brand detection and auto-selection of the appropriate manufacturer debloat list
 * [X] Logs in `debloated_packages.txt` and `remaining_packages.txt`.
-* [ ] Installation of alternative open-source apps replacing stock apps (list in the WIKI section) (WIP)
+* [ ] Installation of alternative open-source apps replacing stock apps [***Coming Soon***]
 
-NB : It is NOT a real uninstallation for system apps (see the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ))
-
-## Universal debloat lists 
-* [X] GFAM (Google/Facebook/Amazon/Microsoft)
-* [X] AOSP
-* [X] Manufacturers (OEM)
-* [X] Mobile carriers
-* [X] Qualcomm / Miscellaneous
-
-## Manufacturers debloat lists
-* [ ] Archos
+## Brand Debloat lists 
 * [X] Asus
-* [ ] Blackberry
-* [ ] Gionee
 * [X] LG
 * [X] Google
-* [ ] HTC
 * [X] Huawei
 * [X] Motorola
 * [X] Nokia
@@ -61,26 +44,41 @@ NB : It is NOT a real uninstallation for system apps (see the [FAQ](https://gith
 * [X] Realme
 * [X] Samsung
 * [X] Sony
-* [ ] TCL
-* [ ] Vivo
-* [ ] Wiko
 * [X] Xiaomi
-* [ ] ZTE
+* [ ] More coming soon...
+## Universal Debloat lists 
+* [X] GFAM (Google/Facebook/Amazon/Microsoft)
+* [X] AOSP
+* [X] Manufacturers (OEM)
+* [X] Mobile carriers
+* [X] Qualcomm / Miscellaneous
 
+## How to use?
+1. **Read the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!**
 
-## How to use it 
-- **Read the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!**
-- **Do a proper backup of your data! You can never be too careful!**
-- Enable *Developer Options* on your smartphone.
-- Turn on *USB Debugging* from the developer panel.
-- From the settings, disconnect from any OEM accounts (when you delete OEM account package it could lock you on the lockscreen because the phone can't associate your identity anymore)
+2. **Do a proper backup of your data! You can never be too careful!**
+3. Enable `Developer Options` on your smartphone:
+    - Turn on `USB Debugging` from the developer panel.
+    - From the settings, logout from any OEM account (Like Samsung or Mi account). You can login back after you're done.
+    - Connect your phone to your Computer via USB, and enable
+
+![*USB Debugging Prompt image*](images/adbprompt.png)
+
+4. Yes this is awesome 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 ### Install Dependencies
 <p>
 <details>
 <summary>Linux</summary>
 
-- Install *Android platform tools* and *qpdf* on your PC :
+- Install ***Android platform tools*** and ***qpdf*** on your PC :
 
 Debian Base :
 ```bash
