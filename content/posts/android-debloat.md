@@ -18,7 +18,7 @@ The main goal of this project is to improve battery-life and privacy by removing
 
 >`Tip:`
 >You can always FACTORY RESET your phone if in case something goes wrong! So please make a Backup of everything.
-
+>
 >`Note:`
 >
 >This script is safe with the default options. The worse case scenario is an essential service failing to load during boot, causing a reboot. After about 5 failed system reboots, the phone boots into recovery mode & you will have to perform a FACTORY RESET. So backup your data. 
@@ -32,51 +32,26 @@ The main goal of this project is to improve battery-life and privacy by removing
 * [X] Logs in `debloated_packages.txt` and `remaining_packages.txt`.
 * [ ] Installation of alternative open-source apps replacing stock apps [***Coming Soon***]
 
-## Brand Debloat lists 
-* [X] Asus
-* [X] LG
-* [X] Google
-* [X] Huawei
-* [X] Motorola
-* [X] Nokia
-* [X] OnePlus
-* [X] Oppo
-* [X] Realme
-* [X] Samsung
-* [X] Sony
-* [X] Xiaomi
-* [ ] More coming soon...
-## Universal Debloat lists 
-* [X] AOSP
-* [X] Google
-* [X] Microsoft
-* [X] Amazon
-* [X] Facebook
-* [X] Microsoft
-* [X] Manufacturers (OEMs)
-* [X] Mobile carriers
-* [X] Qualcomm / MediaTek
-
-## How to use?
-> Step 1:
-> **First Read the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!**
-
-> Step 2: 
-> **Do a proper backup of your data! You can never be too careful!**
-
-> Step 3:
+> # How to use?
+>
+> **Step 1:**
+> First Read the *[FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!*
+>
+> **Step 2:** 
+> Do a proper backup of your data! You can never be too careful!
+>
+> **Step 3:**
 > Enable `Developer Options` on your smartphone.
 >
 > Enable `USB Debugging` from the Developer Options.
 >
 > From the settings, logout from any OEM account (Like Samsung or Mi account). You can login back after you're done.
 >
-> Connect your phone to your Computer via USB, and click allow. Make sure you check the box first for the sake of convenience.
+> Connect your phone to your Computer via USB. When  a pop-up message appears, click allow. Make sure you check the box first for the sake of convenience.
 >
-> ![*USB Debugging Prompt image*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/adbprompt.svg)
-
-
-4> Yes this is ToDo. 
+> ![*USB Debugging Prompt image*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/adbprompt.png)
+>
+> Step 4: Yes this is ToDo. 
 
 
 ### Install Dependencies
@@ -167,10 +142,8 @@ That's it! It will run the script program and you will have the control over ena
 </details>
 </p>
 
-<p>
-<details>
-<summary>Using WSL (Not Recommended)</summary>
-
+## WSL Method (Not Recommended)
+*If you want to use WSL* [click here]()
 
 For now, there is no USB support in the WSL. This means you need to install both Windows and Linux platform-tools and force the use of Windows adb server.
 - Download [android platform tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) and unzip it somewhere. [Add the folder to your PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/).
@@ -215,46 +188,57 @@ Note: You can access your Windows files under `/mnt/c/`
 </p>
 
 
-## Using on any Unix based system
+# Using on any Unix based system
 
-<p>
-<details>
-<summary>Linux One-Step Process</summary>
+### Linux One-Step Process
 
 - Open the terminal application.
 - Copy and paste the following in the terminal and wait for it.
 ```bash 
 curl -sSL https://git.io/JtfRu | bash
 ```
-</details>
-</p>
 
 
-<p>
-<details>
-<summary>MacOS One-Step Process</summary>
+### MacOS One-Step Process
 
 - Open the terminal application.
 - Copy and paste the following in the terminal and wait for it.
 ```bash 
 curl -sSL https://git.io/JtfRB | bash
 ```
-</details>
-</p>
-
-## Manual Process
-- Install the dependencies [mentioned above](https://github.com/gamerhat18/android-debloat/#install-dependencies)
-- Clone this Repository.
-- Browse through the debloat lists to be sure the default selection suits you.
-- Run `debloat_script.sh` from a Unix terminal 
-
 
 **NOTE:** Chinese phones users may need to use the AOSP list for removing some stock apps because those chinese manufacturers (especially Xiaomi and Huawei) have been using the name of AOSP packages for their own (modified & closed-source) apps.
 
-**IMPORTANT NOTE:** You will have to run this script whenever your OEM push an update to your phone as some *uninstalled* system apps could be reinstalled.
+**REMEMBER:** You will have to run this script whenever your OEM push an update to your phone and install the apps that you just removed.
 
 ## How to contribute
 
 Hey-hey-hey! Don't go away so fast! This is a community project. That means I need you! I'm sure you want to make this project better anyway.
 
 ==> [How to contribute](https://github.com/gamerhat18/android-debloat/tree/master/Contribute)
+
+
+## Brand Debloat lists 
+* [X] Asus
+* [X] LG
+* [X] Google
+* [X] Huawei
+* [X] Motorola
+* [X] Nokia
+* [X] OnePlus
+* [X] Oppo
+* [X] Realme
+* [X] Samsung
+* [X] Sony
+* [X] Xiaomi
+* [ ] More coming soon...
+## Universal Debloat lists 
+* [X] AOSP
+* [X] Google
+* [X] Microsoft
+* [X] Amazon
+* [X] Facebook
+* [X] Microsoft
+* [X] Manufacturers (OEMs)
+* [X] Mobile carriers
+* [X] Qualcomm / MediaTek

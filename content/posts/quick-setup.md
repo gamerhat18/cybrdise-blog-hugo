@@ -45,3 +45,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JtUwY'))
 >4. Downloads Rufus for writing the ISO to a USB Stick.
 >5. Opens TeamViewer and I ask the client to send a picture of the id and password.
 >6. Gets other scripts for more personalized configurations.
+
+
+
+**////////////////////////////////////////////////////////////////////**
