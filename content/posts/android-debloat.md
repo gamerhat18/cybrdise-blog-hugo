@@ -32,7 +32,7 @@ The main goal of this project is to improve battery-life and privacy by removing
 * [X] Logs in `debloated_packages.txt` and `remaining_packages.txt`.
 * [ ] Installation of alternative open-source apps replacing stock apps [***Coming Soon***]
 
-> # How to use?
+> # Getting Started
 >
 > **Step 1:**
 > First Read the *[FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!*
