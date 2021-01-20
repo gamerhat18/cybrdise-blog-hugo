@@ -47,7 +47,10 @@ The main goal of this project is to improve battery-life and privacy by removing
 * [X] Xiaomi
 * [ ] More coming soon...
 ## Universal Debloat lists 
-* [X] Google/Facebook/Amazon/Microsoft
+* [X] Google
+      Facebook
+      Amazon
+      Microsoft
 * [X] AOSP
 * [X] Manufacturers (OEMs)
 * [X] Mobile carriers
