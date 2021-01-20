@@ -73,7 +73,7 @@ The main goal of this project is to improve battery-life and privacy by removing
 >
 > Connect your phone to your Computer via USB, and click allow. Make sure you check the box first for the sake of convenience.
 >
-> ![*USB Debugging Prompt image*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/adbprompt.png)
+> ![*USB Debugging Prompt image*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/adbprompt.svg)
 
 
 4> Yes this is ToDo. 
