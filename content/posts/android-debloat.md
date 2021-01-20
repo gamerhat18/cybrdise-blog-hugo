@@ -58,21 +58,25 @@ The main goal of this project is to improve battery-life and privacy by removing
 * [X] Qualcomm / MediaTek
 
 ## How to use?
-1> **First Read the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!**
+> Step 1:
+> **First Read the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!**
 
-2> **Do a proper backup of your data! You can never be too careful!**
+> Step 2: 
+> **Do a proper backup of your data! You can never be too careful!**
 
-3> Enable `Developer Options` on your smartphone:
+> Step 3:
+> Enable `Developer Options` on your smartphone.
+>
+> Enable `USB Debugging` from the Developer Options.
+>
+> From the settings, logout from any OEM account (Like Samsung or Mi account). You can login back after you're done.
+>
+> Connect your phone to your Computer via USB, and click allow. Make sure you check the box first for the sake of convenience.
+>
+> ![*USB Debugging Prompt image*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/adbprompt.png)
 
-    - Turn on `USB Debugging` from the developer panel.
 
-    - From the settings, logout from any OEM account (Like Samsung or Mi account). You can login back after you're done.
-    
-    - Connect your phone to your Computer via USB, and enable
-
-![*USB Debugging Prompt image*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/adbprompt.png)
-
-4> Yes this is awesome 
+4> Yes this is ToDo. 
 
 
 ### Install Dependencies
