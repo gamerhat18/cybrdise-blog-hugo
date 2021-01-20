@@ -47,11 +47,11 @@ The main goal of this project is to improve battery-life and privacy by removing
 * [X] Xiaomi
 * [ ] More coming soon...
 ## Universal Debloat lists 
-* [X] GFAM (Google/Facebook/Amazon/Microsoft)
+* [X] Google/Facebook/Amazon/Microsoft
 * [X] AOSP
-* [X] Manufacturers (OEM)
+* [X] Manufacturers (OEMs)
 * [X] Mobile carriers
-* [X] Qualcomm / Miscellaneous
+* [X] Qualcomm / MediaTek
 
 ## How to use?
 1. **Read the [FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!**
