@@ -34,7 +34,7 @@ curl -sSL https://git.io/JLxkS | bash
 ## Windows (Administrator Privileges needed):
 
 ```powershell
-iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JtUwY'))
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
 ```
 
 >Here are the things that it does on Windows:
