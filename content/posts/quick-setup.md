@@ -38,6 +38,7 @@ See image below.
 
 ![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png)
 
+**Step 2:** Click `YES`.
 
 ![*Security Prompt*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/uacprompt.png)
 
