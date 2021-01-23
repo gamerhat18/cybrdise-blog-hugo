@@ -48,7 +48,7 @@ Here's what it does:
 
 - ## **Step 3:** 
 
-    -> Copy and Paste the following code into the Powershell and then press `Enter`.
+    -> Copy and Paste the following code into the Powershell, and then press `Enter`.
 ```powershell
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
 ```
