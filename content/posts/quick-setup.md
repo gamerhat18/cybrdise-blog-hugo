@@ -65,3 +65,5 @@ Here's what it does:
     -> Downloads Rufus for writing the ISO to a USB Stick.
     -> Opens TeamViewer and I ask the client to send a picture of the id and password.
     -> Gets other scripts for more personalized configurations.
+
+Also worth checking out: [Windows 10 Essentials Script](https://github.com/gamerhat18/win10script)
