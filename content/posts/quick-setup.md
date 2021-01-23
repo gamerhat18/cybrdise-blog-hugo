@@ -40,7 +40,7 @@ Here's what it does:
     -> Downloads and Installs TeamViewer.
     -> Installs ZSH and Oh-My-ZSH .
     -> Replaces .zshrc & .bashrc with my rc files.
-    -> Opens TeamViewer and I ask the client to send a picture of the id and password.
+    -> Opens TeamViewer and I ask the client to send a picture of the ID and password.
     -> Gets other scripts for more personalized configurations.
 
 # Windows (Administrator Privileges needed):
@@ -52,7 +52,7 @@ Here's what it does:
 
 - ## **Step 2:** 
 
-    -> Click `YES`. 
+    -> Click `YES`. Enter Administrator password if asked. 
 
 ![*Security Prompt*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/uacprompt.png)
 
@@ -73,7 +73,7 @@ Here's what it does:
     -> Installs TeamViewer from Chocolatey.
     -> Installs QBittorent from Chocolatey for downloading Linux ISO(s).
     -> Downloads Rufus for writing the ISO to a USB Stick.
-    -> Opens TeamViewer and I ask the client to send a picture of the id and password.
+    -> Opens TeamViewer and I ask the client to send a picture of the ID and password.
     -> Gets other scripts for more personalized configurations.
 
 Also worth checking out: [Windows 10 Essentials Script](https://github.com/gamerhat18/win10script)
