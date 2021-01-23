@@ -16,29 +16,33 @@ Here are some one-liners for quick and easy first setups of various operating sy
 Check out this to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
 
 
-## Linux:
+# Linux:
 
 ```bash
 curl -sSL https://git.io/JLxkS | bash
 ```
 
->Here are the things that it does on Linux:
->
->1. Updates repositories via `sudo apt update`.
->2. Downloads and Installs TeamViewer from the official website.
->3. Installs ZSH and Oh-My-ZSH.
->4. Replaces .zshrc & .bashrc with my personal rc files.
->5. Opens TeamViewer and I ask the client to send a picture of the id and password.
->6. Gets other scripts for more personalized configurations.
+Here's the script [https://git.io/JLxkS](https://git.io/JLxkS)
 
-## Windows (Administrator Privileges needed):
+Here's what it does:
 
-**Step 1:** Right-click on the Start Menu, and select `Windows Powershell (Admin)`. 
-See image below.
+    -> Updates repositories via `sudo apt update`.
+    -> Downloads and Installs TeamViewer from the official website.
+    -> Installs ZSH and Oh-My-ZSH.
+    -> Replaces .zshrc & .bashrc with my personal rc files.
+    -> Opens TeamViewer and I ask the client to send a picture of the id and password.
+    -> Gets other scripts for more personalized configurations.
+
+# Windows (Administrator Privileges needed):
+- **Step 1:** 
+
+    -> Right-click on the Start Menu, and select `Windows Powershell (Admin)`. 
 
 ![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png)
 
-**Step 2:** Click `YES`.
+- **Step 2:** 
+
+    -> Click `YES`. 
 
 ![*Security Prompt*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/uacprompt.png)
 
@@ -46,12 +50,14 @@ See image below.
 ```powershell
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
 ```
+Here's the script [https://git.io/Jt3LI](https://git.io/Jt3LI)
 
->Here are the things that it does on Windows:
->
->1. Installs Chocolatey.
->2. Installs TeamViewer from Chocolatey.
->3. Installs QBittorent from Chocolatey for downloading Linux ISO(s).
->4. Downloads Rufus for writing the ISO to a USB Stick.
->5. Opens TeamViewer and I ask the client to send a picture of the id and password.
->6. Gets other scripts for more personalized configurations.
+
+Here's what it does:
+
+    -> Installs Chocolatey.
+    -> Installs TeamViewer from Chocolatey.
+    -> Installs QBittorent from Chocolatey for downloading Linux ISO(s).
+    -> Downloads Rufus for writing the ISO to a USB Stick.
+    -> Opens TeamViewer and I ask the client to send a picture of the id and password.
+    -> Gets other scripts for more personalized configurations.
