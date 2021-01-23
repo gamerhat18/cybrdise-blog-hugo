@@ -13,7 +13,7 @@ draft: false
 
 
 Here are some one-liners for quick and easy first setups of various operating systems.
-Check out this to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
+Check out the project to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
 
 
 # Linux:
