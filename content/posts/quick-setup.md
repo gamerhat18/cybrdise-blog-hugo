@@ -17,13 +17,18 @@ Check out the project to learn more: [Quick-Setup](https://github.com/gamerhat18
 
 # Linux:
 
-- ## **Step 1:** 
+## **Simple Process:** 
 
-    -> Open the Terminal app. 
+1. Open the Terminal app. 
+
+2. Copy and Paste the following code into the app, and then press `Enter`.
 
 ```bash
 curl -sSL https://git.io/JLxkS | bash
 ```
+
+![*Terminal*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/linux-terminal.png)
+
 
 Here's the script [https://git.io/JLxkS](https://git.io/JLxkS)
 
