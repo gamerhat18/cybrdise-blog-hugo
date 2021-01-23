@@ -33,10 +33,8 @@ curl -sSL https://git.io/JLxkS | bash
 
 ## Windows (Administrator Privileges needed):
 
-![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png =330)
+![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png)
 
- <img src="https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png" width="200">
-<img src="https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png" alt="drawing" style="width:200px;"/>
 
 ```powershell
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
