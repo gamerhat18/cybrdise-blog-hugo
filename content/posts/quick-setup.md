@@ -72,7 +72,7 @@ Here's what it does:
     -> Installs Chocolatey.
     -> Installs TeamViewer from Chocolatey.
     -> Installs QBittorent from Chocolatey for downloading Linux ISO(s).
-    -> Downloads Rufus for writing the ISO to a USB Stick.
+    -> Downloads Rufus/Ventoy for writing the ISO to a USB drive.
     -> Opens TeamViewer and I ask the client to send a picture of the ID and password.
     -> Gets other scripts for more personalized configurations.
 
