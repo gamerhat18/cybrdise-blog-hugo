@@ -23,6 +23,8 @@ Check out the project to learn more: [Quick-Setup](https://github.com/gamerhat18
 
 2. Copy and Paste the following code into the app, and then press `Enter`.
 
+3. Enter your password if necessary.
+
 ```bash
 curl -sSL https://git.io/JLxkS | bash
 ```
