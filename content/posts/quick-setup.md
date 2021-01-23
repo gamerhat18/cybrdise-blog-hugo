@@ -33,7 +33,7 @@ curl -sSL https://git.io/JLxkS | bash
 
 ## Windows (Administrator Privileges needed):
 
-![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/adbprompt.png)
+![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png)
 
 ```powershell
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
