@@ -16,7 +16,7 @@ Here are some one-liners for quick and easy first setups of various operating sy
 Check out this to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
 
 
-## Linux (without sudo):
+## Linux:
 
 ```bash
 curl -sSL https://git.io/JLxkS | bash
@@ -33,7 +33,10 @@ curl -sSL https://git.io/JLxkS | bash
 
 ## Windows (Administrator Privileges needed):
 
-![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png)
+![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png =330)
+
+ <img src="https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png" width="200">
+<img src="https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png" alt="drawing" style="width:200px;"/>
 
 ```powershell
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
