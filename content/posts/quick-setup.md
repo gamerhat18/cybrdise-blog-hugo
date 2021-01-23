@@ -11,12 +11,15 @@ showFullContent: false
 draft: false
 ---
 
-
 Here are some one-liners for quick and easy first setups of various operating systems.
 Check out the project to learn more: [Quick-Setup](https://github.com/gamerhat18/quick-setup)
 
 
 # Linux:
+
+- ## **Step 1:** 
+
+    -> Open the Terminal app. 
 
 ```bash
 curl -sSL https://git.io/JLxkS | bash
@@ -26,10 +29,10 @@ Here's the script [https://git.io/JLxkS](https://git.io/JLxkS)
 
 Here's what it does:
 
-    -> Updates repositories via `sudo apt update`.
+    -> Updates repositories via `sudo apt update`
     -> Downloads and Installs TeamViewer from the official website.
-    -> Installs ZSH and Oh-My-ZSH.
-    -> Replaces .zshrc & .bashrc with my personal rc files.
+    -> Installs ZSH and Oh-My-ZSH .
+    -> Replaces .zshrc & .bashrc with my rc files.
     -> Opens TeamViewer and I ask the client to send a picture of the id and password.
     -> Gets other scripts for more personalized configurations.
 
