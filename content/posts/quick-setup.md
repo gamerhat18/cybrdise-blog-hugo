@@ -46,11 +46,15 @@ Here's what it does:
 
 ![*Security Prompt*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/uacprompt.png)
 
+- **Step 3:** 
 
+    -> Copy and Paste the following code into the Powershell.
 ```powershell
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
 ```
 Here's the script [https://git.io/Jt3LI](https://git.io/Jt3LI)
+
+![*Security Prompt*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/one-liner-powershell.png)
 
 
 Here's what it does:
