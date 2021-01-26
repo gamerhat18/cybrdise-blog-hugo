@@ -83,7 +83,7 @@ $ sudo yum install android-tools qpdf
 - Install [Homebrew](https://brew.sh/)
 - Install *Android platform tools* and *qpdf*
 
-You will also need to upgrade bash because Apple ships a very old bash version (3.2.57) due to licencing issues.
+You will also need to upgrade bash because Apple ships an old bash version (3.2.57) due to licencing issues.
 
 ```bash
 $ brew install android-platform-tools qpdf bash
