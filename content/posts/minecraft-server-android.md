@@ -3,7 +3,7 @@ title: "Minecraft Server on Android"
 date: 2021-01-22
 author: "Pranav Kulkarni"
 authorTwitter: "gamerhat18" #do not include @
-cover: "https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/thumbnails/android-debloat.png"
+cover: ""
 tags: ["server", "minecraft", "android"]
 keywords: ["server", "minecraft", "android", "mods"]
 description: "Going over how to setup a Minecraft Server with Mods on an Android Phone."
