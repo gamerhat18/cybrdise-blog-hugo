@@ -8,4 +8,3 @@ Articles are mostly about my projects on [github.com/gamerhat18](https://github.
 If you want to help improve the site, please make a pull request to submit your changes. I'll be more than happy to see them! 🙃
 
 Thanks to @[panr](https://twitter.com/panr) for this [awesome theme](https://github.com/panr/hugo-theme-terminal), And Thanks to You for visiting the site! ❤
-

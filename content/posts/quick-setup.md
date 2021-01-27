@@ -26,7 +26,7 @@ Check out the project to learn more: [Quick-Setup](https://github.com/gamerhat18
 3. Enter your password if necessary.
 
 ```bash
-curl -sSL https://git.io/JLxkS | bash
+curl -sSL https://bit.ly/2Yi6fns | bash
 ```
 
 ![*Terminal*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/linux-terminal.png)
