@@ -12,7 +12,7 @@ draft = false
 +++
 
 
-## You can check out the project [here](https://github.com/gamerhat18/android-debloat).
+## You can check out the project [here](https://github.com/gamerhat18/agni).
 
 The main goal of this project is to improve battery-life and privacy by removing bloatware. The script has a menu that lets you choose what debloat list you want to use. I strongly encourage you to take a look at the lists because the default selection might not suit you. Almost all packages are documented in order to avoid mishappenings.
 
@@ -35,7 +35,7 @@ The main goal of this project is to improve battery-life and privacy by removing
 > # Getting Started
 >
 > **Step 1:**
-> First Read the *[FAQ](https://github.com/gamerhat18/android-debloat/wiki/FAQ)!*
+> First Read the *[FAQ](https://github.com/gamerhat18/agni/wiki/FAQ)!*
 >
 > **Step 2:** 
 > Do a proper backup of your data! You can never be too careful!
