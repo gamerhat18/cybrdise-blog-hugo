@@ -55,9 +55,8 @@ The main goal of this project is to improve battery-life and privacy by removing
 
 
 ### Install Dependencies
-<p>
-<details>
-<summary>Linux</summary>
+
+## Linux
 
 - Install ***Android platform tools*** and ***qpdf*** on your PC :
 

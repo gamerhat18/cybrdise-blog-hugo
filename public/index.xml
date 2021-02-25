@@ -6,17 +6,31 @@
     <description>Recent content on CYBRDiSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 12:02:16 +0530</lastBuildDate><atom:link href="https://blog.cybrdise.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>:: Blog made with ❤️ by Pranav</copyright>
+    <lastBuildDate>Sat, 16 Jan 2021 15:20:32 +0530</lastBuildDate><atom:link href="https://blog.cybrdise.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Debloat</title>
+      <link>https://blog.cybrdise.com/posts/android-debloat/</link>
+      <pubDate>Sat, 16 Jan 2021 15:20:32 +0530</pubDate>
+      
+      <guid>https://blog.cybrdise.com/posts/android-debloat/</guid>
+      <description>You can check out the project here. The main goal of this project is to improve battery-life and privacy by removing bloatware. The script has a menu that lets you choose what debloat list you want to use. I strongly encourage you to take a look at the lists because the default selection might not suit you. Almost all packages are documented in order to avoid mishappenings.
+ Tip: You can always FACTORY RESET your phone if in case something goes wrong!</description>
+    </item>
+    
     <item>
       <title>Quick Setup</title>
       <link>https://blog.cybrdise.com/posts/quick-setup/</link>
       <pubDate>Sat, 16 Jan 2021 12:02:16 +0530</pubDate>
       
       <guid>https://blog.cybrdise.com/posts/quick-setup/</guid>
-      <description>Here are some one liners for quick and easy first setups of various operating systems. Check out this to learn more: Quick-Setup
-Linux (without sudo):
-curl -sSL https://git.io/JLxkS | bash Windows (Administrator Privileges needed):
-iex ((New-Object System.Net.WebClient).DownloadString(&amp;#39;https://git.io/JtUwY&amp;#39;)) </description>
+      <description>Here are some one-liners for quick and easy first setups of various operating systems. Check out the project to learn more: Quick-Setup
+Linux:   Open the Terminal app.
+  Copy and Paste the following code into the app, and then press Enter.
+  Enter your password if necessary.
+  curl -sSL https://bit.ly/2Yi6fns | bash Here&amp;rsquo;s the script https://git.io/JLxkS
+Here&amp;rsquo;s what it does:
+-&amp;gt; Updates repositories via `sudo apt update` -&amp;gt; Downloads and Installs TeamViewer.</description>
     </item>
     
   </channel>

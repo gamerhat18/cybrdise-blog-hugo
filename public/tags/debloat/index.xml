@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debloat on CYBRDiSE</title>
+    <link>https://blog.cybrdise.com/tags/debloat/</link>
+    <description>Recent content in Debloat on CYBRDiSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>:: Blog made with ❤️ by Pranav</copyright>
+    <lastBuildDate>Sat, 16 Jan 2021 15:20:32 +0530</lastBuildDate><atom:link href="https://blog.cybrdise.com/tags/debloat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Debloat</title>
+      <link>https://blog.cybrdise.com/posts/android-debloat/</link>
+      <pubDate>Sat, 16 Jan 2021 15:20:32 +0530</pubDate>
+      
+      <guid>https://blog.cybrdise.com/posts/android-debloat/</guid>
+      <description>You can check out the project here. The main goal of this project is to improve battery-life and privacy by removing bloatware. The script has a menu that lets you choose what debloat list you want to use. I strongly encourage you to take a look at the lists because the default selection might not suit you. Almost all packages are documented in order to avoid mishappenings.
+ Tip: You can always FACTORY RESET your phone if in case something goes wrong!</description>
+    </item>
+    
+  </channel>
+</rss>
