@@ -4,12 +4,15 @@ date = "2021-03-23T16:47:18+05:30"
 author = "Pranav Kulkarni"
 authorTwitter = "gamerhat18" #do not include @
 cover = "https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/thumbnails/winlogo.png"
-tags = ["Android", "Debloat"]
-keywords = ["Android", "debloat"]
-description = "An easy guide for android-debloat project"
+tags = ["Windows", "Windows", "Debloat"]
+keywords = ["Windows", "Windows 10", "faster", "better", "debloat"]
+description = "The best way to use Windows without Microsoft's telemetry and data collection, and improve performance by deleting some Windows Components..."
 showFullContent = false
 draft = false
 +++
+
+Take a look at the Project on GitHub:
+https://github.com/gamerhat18/windows-9.5
 
 
 # Windows 9.5
