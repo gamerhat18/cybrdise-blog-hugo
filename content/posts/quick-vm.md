@@ -1,4 +1,19 @@
++++
+title = "Quick VM Setup"
+date = "2021-03-18T15:20:32+05:30"
+author = "Pranav Kulkarni"
+authorTwitter = "gamerhat18" #do not include @
+cover = "" # "https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/thumbnails/android-debloat.png"
+tags = ["VM", "Virtual", "Machine", "Virtual Machine", "ASAP"]
+keywords = ["Linux", "Windows", "MacOS", "Mac OS", "Virtual Machine", "VM"]
+description = "An easy and quick way to bring VMs to masses and help people to switch to Linux from Windows/MacOS."
+showFullContent = false
+draft = false
++++
+
+
 # Quick-VM (WORK IN PROGRESS)
+
 Setup a Windows VM very easily and quickly on any Arch, Debian or Fedora system using RedHat KVM. 
 
 ### Make sure you rename both of the ISOs as following:
@@ -11,7 +26,7 @@ Setup a Windows VM very easily and quickly on any Arch, Debian or Fedora system 
 ### Paste this in your terminal
 
 ```bash
-bash <(curl -sSL https://git.io/JqtJc) 
+bash <(curl -sL https://git.io/JqtJc) 
  ```
 
 Here is the [Raw Script](https://raw.githubusercontent.com/gamerhat18/Quick-VM/main/main.sh)
