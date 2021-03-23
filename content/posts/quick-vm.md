@@ -11,6 +11,8 @@ showFullContent = false
 draft = false
 +++
 
+Take a look at the Project on GitHub:
+https://github.com/gamerhat18/quick-vm
 
 # Quick-VM (WORK IN PROGRESS)
 
@@ -29,7 +31,7 @@ Setup a Windows VM very easily and quickly on any Arch, Debian or Fedora system 
 bash <(curl -sL https://git.io/JqtJc) 
  ```
 
-Here is the [Raw Script](https://raw.githubusercontent.com/gamerhat18/Quick-VM/main/main.sh)
+Here is the [Raw Script](https://raw.githubusercontent.com/gamerhat18/quick-vm/main/main.sh)
 
 ### Host System Requirements:
  
