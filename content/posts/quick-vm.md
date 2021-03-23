@@ -1,6 +1,6 @@
 +++
 title = "Quick VM Setup"
-date = "2021-03-18T15:20:32+05:30"
+date = "2021-01-18T15:20:32+05:30"
 author = "Pranav Kulkarni"
 authorTwitter = "gamerhat18" #do not include @
 cover = "" # "https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/thumbnails/android-debloat.png"
