@@ -1,3 +1,17 @@
++++
+title = "Make Windows faster & better"
+date = "2021-03-23T16:47:18+05:30"
+author = "Pranav Kulkarni"
+authorTwitter = "gamerhat18" #do not include @
+cover = "https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/c
+tags = ["Android", "Debloat"]
+keywords = ["Android", "debloat"]
+description = "An easy guide for android-debloat project"
+showFullContent = false
+draft = false
++++
+
+
 # Windows 9.5
 
 ## Part 1: Modifying the Vanilla Windows 10 ISO
