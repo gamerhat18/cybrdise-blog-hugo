@@ -1,4 +1,20 @@
++++
+title = "Online Exam Loopholes"
+date = "2020-12-31T15:20:32+05:30"
+author = "Pranav Kulkarni"
+authorTwitter = "gamerhat18" #do not include @
+cover = "" # "https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/thumbnails/android-debloat.png"
+tags = ["loopholes", "online", "exam", "cheat", "remote", "control"]
+keywords = ["loopholes", "online", "exam", "cheat", "obs", "camera", "vm", "discord", "remote", "control", "teamviewer"]
+description = "An easy and quick way to bring VMs to masses and help people to switch to Linux from Windows/MacOS."
+showFullContent = false
+draft = false
++++
+
+
+
 # online-exam-loopholes
+
 This repository compiles a couple of methods to cheat in an online exam, which involve a Personal Phone/Computer, preferably not inside a campus/college.
 
 Note: I DO NOT condone cheating as a valid option to pass in exams, but my college blatantly told us to copy for our final exams, so I developed this repository guilt-free.
