@@ -8,7 +8,7 @@ tags = ["loopholes", "online", "exam", "cheat", "remote", "control"]
 keywords = ["loopholes", "online", "exam", "cheat", "obs", "camera", "vm", "discord", "remote", "control", "teamviewer"]
 description = "An easy and quick way to bring VMs to masses and help people to switch to Linux from Windows/MacOS."
 showFullContent = false
-draft = false
+draft = true
 +++
 
 
