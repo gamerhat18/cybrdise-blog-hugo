@@ -8,7 +8,7 @@ tags: ["server", "VS Code", "phone", "linux", "mobile", "android", "iOS", "termu
 keywords: ["server", "VS Code", "linux", "iOS", "android", "termux", "mobile"]
 description: "Going over how to VS Code on a Phone."
 showFullContent: false
-draft: true #false  #make this false when the edits are finalised
+draft: false  #make this false when the edits are finalised
 ---
 
 Check out this to learn more: [VS Code Mobile](https://github.com/gamerhat18/vs-code-mobile/) 
