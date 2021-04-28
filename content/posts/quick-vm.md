@@ -11,14 +11,14 @@ showFullContent = false
 draft = false
 +++
 
-Take a look at the Project on GitHub:
-https://github.com/thegamerhat/quick-vm
 
 # Quick-VM
 
-Windows 10 is used by many, in personal computers, enterprise, workstations, etc. Not because it is the best, nor because it is the fastest, or the most secure, but only because most do not know about the alternatives.
+Summary of the [Quick-VM Project](https://github.com/thegamerhat/quick-vm) on GitHub.
 
-Some of the practical problems including but not limited to:
+Windows 10 is used by many, in personal computers, enterprise, workstations, etc. Not because it is the best, nor because it is the fastest, or the most secure. Infact, quite the contrary as it is one of the most insecure and efficient.
+
+**Some of the practical problems including but not limited to:**
 
 1. The latest windows update has even proved to be devastating for computers running Windows 10, as many users were stuck with a non-functioning computer altogether.
 https://www.windowslatest.com/2021/04/21/april-2021-patch-is-now-causing-trouble-for-more-windows-10-users/
@@ -33,4 +33,31 @@ https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-
 
 3. Security, or the lack thereof. **Millions of new Viruses and Malware EVERY MONTH**. Absolutely not worth explaining further, as everyone of us is aware about it.
 
+The problems have been amplified since the launch of Windows 10. This has demanded a solution for millions in the past decade.
 
+Till now, many have attempted to use Linux/Mac in favour of switching away from Windows, but there were few applications only available on Windows. 
+
+Some of the most effective solutions to that include:
+
+  - Using Linux and running Windows in a container (VM)
+  - Using older versions of Windows (Not suitable today)
+
+Running Windows in a Container is the best solution for the longer term, if the software you need isn't available on Linux/Mac. Some modifications are done following the initial install to optimize windows which will lead to better performance compared to a standard Windows computer.
+
+## Advantages:
+
+  - **Efficient Memory usage**: Reducing Windows background processes frees up memory for your applications.
+
+  - **Enhanced Security**: Containerization ensures extra layers of security for the Enterprise, Universities and the Military that need it.
+
+  - **Low Price**: Ability to run multiple computers at potentially half the price of traditional parts.
+
+  - **Multiple Users**: One Computer can be used by multiple simultaneous users.
+
+This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
+
+## Disadvantages:
+
+  - **Initial Setup is difficult and time consuming**
+
+  -  
