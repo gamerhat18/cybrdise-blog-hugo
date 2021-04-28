@@ -4,7 +4,7 @@ date = "2021-04-25T15:20:32+05:30"
 author = "Pranav Kulkarni"
 authorTwitter = "thegamerhat" #do not include @
 cover = "" #
-tags = ["VM", "Virtual", "Machine", "Virtual Machine", "ASAP"]
+tags = ["VM", "Virtual", "Machine", "Linux", ""]
 keywords = ["Linux", "Windows", "MacOS", "Mac OS", "Virtual Machine", "VM"]
 description = "An easy and quick way to bring VMs to masses and help people to switch to Linux from Windows/MacOS."
 showFullContent = false
@@ -52,7 +52,9 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
   5. **Lower Price**: Ability to run multiple computers at potentially half the price of traditional parts.
 
-  6. **Multiple Users**: One Computer can be used by multiple simultaneous users.
+  6. **Improved Stability and Reliability**: Windows will last longer in working state compared to traditional windows based Workstations.
+
+  7. **Multiple Users**: One Computer can be used by multiple simultaneous users.
 
 ![Before](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
 
