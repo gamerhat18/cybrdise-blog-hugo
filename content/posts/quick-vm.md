@@ -61,3 +61,114 @@ This Quick-VM Project aims to bring the technology of Virtualization to the mass
   - **Lack of customer awareness**
 
 This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
+
+# How to setup?
+
+This Project was a long time in making, and most of the work went into automating most of the things and documenting how everything works and the necessary tweaks along with troubleshooting steps.
+
+On an average computer, with a decent internet connection, the setup has had a total time of **100 Seconds**!
+
+## Pre-requisites:
+
+1. Linux OS (Ubuntu/Fedora/Debian etc. will work just fine)
+2. Stable Internet Connection
+3. Multiple monitors (Optional)
+
+
+## 🏅 Simple Install ➜ Follow Step 🥇, Step 🥈 and Step 🥉
+
+### 🥇 Getting ISOs Ready
+
+1. **Download** [Windows 10 Pro ISO](https://www.microsoft.com/en-us/software-download/windows10ISO), **and** [VirtIO Drivers (Stable)](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso)
+
+2. **Place the ISOs in either** `~/WindowsVM/` **or** `/var/lib/libvirt/images/`.
+
+3. **Rename the ISOs as shown below:**
+    - **Windows 10 ISO** ➜ `win10.iso`
+    - **VirtIO Drivers** ➜ `virtio-win.iso`
+
+4. **Open your terminal and enter the command shown below**
+
+### 🥈 One-liner to Setup KVM
+
+#### Paste this in your terminal
+
+```bash
+bash <(wget -qO- https://git.io/JOeOs)
+ ```
+
+> Here is the [Script](https://github.com/thegamerhat/quick-vm/blob/main/one-liner.sh)
+
+### 🥉 Getting the VM Ready:
+
+<p>
+<details>
+<summary>Step by Step Guide - Click Me!</summary>
+<br>
+
+### Please follow along the steps below to get the VM ready.
+
++ Open **Virtual Machine Manager** and Start the **Windows VM**
+
+> If you encounter an OVMF/edk2 problem, check out [OVMF Fix](https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF#Cannot_boot_after_upgrading_ovmf)
+>
+> **Or you can enter the following command in terminal (only applicable this VM)**
+>
+> Ubuntu/Debian ➜ `sudo cp /usr/share/OVMF/OVMF_CODE.fd /var/lib/libvirt/qemu/nvram/Windows10-default_VARS.fd `
+>
+> Fedora ➜ `sudo cp /usr/share/edk2/ovmf/OVMF_CODE.fd /var/lib/libvirt/qemu/nvram/Windows10-default_VARS.fd`
+>
+> Arch ➜ `sudo cp /usr/share/ovmf/x64/OVMF_VARS.fd /var/lib/libvirt/qemu/nvram/Windows10-default_VARS.fd`
+
++ Click inside the VM Window and press any key when asked.  
+
+![Screenshot](docs/img/first-boot.png)
+
+![Screenshot](docs/img/booting-iso.png)
+
++ Select your language and keyboard input and click Next.
+
+![Screenshot](docs/img/install-1.png)
+
+![Screenshot](docs/img/install-2.png)
+
++ Enter your product key now, or you can skip and enter your product key after installation.
+
+![Screenshot](docs/img/install-3.png)
+
++ Selecting **Windows 10 Pro N** will install **Windows 10 Pro** without extra bloat.
+> Note: Choose Windows 10 Pro XXX or Enterprise if you need Hyper-V for Stealth VM. 
+
+![Screenshot](docs/img/install-4.png)
+
+![Screenshot](docs/img/install-5.png)
+
++ Select **Custom Install**  (because the other one is useless)
+
+![Screenshot](docs/img/install-6.png)
+
++ Click on **Load Driver** to install disk drivers.
+
+![Screenshot](docs/img/install-7.png)
+
+![Screenshot](docs/img/install-8.png)
+
++ Double-Click on **CD Drive virtio-win** ➜ **amd64** ➜ **w10** and click **OK**. 
+
+![Screenshot](docs/img/install-9.png)
+
++ Just click N**ext** to select the default one.
+
+![Screenshot](docs/img/install-10.png)
+
++ Select `Unallocated Space` and click **Next** to begin the installation.
+
+![Screenshot](docs/img/install-11.png)
+
+![Screenshot](docs/img/install-12.png)
+
+</br>
+</details>
+</p>
+
+### 🎉 That's it, You have successfully created a VM!
