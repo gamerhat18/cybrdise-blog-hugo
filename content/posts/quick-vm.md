@@ -25,15 +25,15 @@ https://www.windowslatest.com/2021/04/21/april-2021-patch-is-now-causing-trouble
 
 2. Windows Deleting your important files without your consent, which happened twice.
 
-https://www.howtogeek.com/658194/windows-10s-new-update-is-deleting-peoples-files-again
+    - https://www.howtogeek.com/658194/windows-10s-new-update-is-deleting-peoples-files-again
 
-https://www.theverge.com/2018/10/6/17944966/microsoft-windows-10-october-2018-update-documents-deleted-issues-windows-update-paused
+    - https://www.theverge.com/2018/10/6/17944966/microsoft-windows-10-october-2018-update-documents-deleted-issues-windows-update-paused
 
-https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-users-data
+    - https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-users-data
 
 3. Security, or the lack thereof. **Millions of new Viruses and Malware EVERY MONTH**. Absolutely not worth explaining further, as everyone of us is aware about it.
 
-The problems have been amplified since the launch of Windows 10. This has demanded a solution for millions in the past decade.
+The problems have been amplified since the launch of Windows 10 and this situation has demanded a solution for millions in the past decade.
 
 Till now, many have attempted to use Linux/Mac in favour of switching away from Windows, but there were few applications only available on Windows. 
 
