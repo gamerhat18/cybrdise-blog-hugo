@@ -63,7 +63,7 @@ Here's what it does:
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jt3LI'))
 ```
 
-![*Security Prompt*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/one-liner-powershell.png)
+![Powershell oneliner](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/one-liner-powershell.png)
 
 Here's the script [https://git.io/Jt3LI](https://git.io/Jt3LI)
 

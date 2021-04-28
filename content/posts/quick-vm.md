@@ -54,7 +54,9 @@ This Quick-VM Project aims to bring the technology of Virtualization to the mass
 
 ![Screenshot](https://raw.githubusercontent.com/thegamerhat/quick-vm/main/img/quickvm-1.png)
 
-![Screenshot](https://raw.githubusercontent.com/thegamerhat/quick-vm/main/img/quickvm-2.png)
+![Screenshot](https://raw.githubusercontent.com/thegamerhat/quick-vm/master/img/quickvm-2.png)
+
+![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png)
 
 ## Disadvantages:
 
