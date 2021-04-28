@@ -42,17 +42,17 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
 ## Advantages:
 
-  - **Efficient Memory usage**: Reducing Windows background processes frees up memory for your applications.
+  1. **Efficient Memory usage**: Reducing Windows background processes frees up memory for your applications.
 
-  - **Enhanced Security**: Containerization ensures extra layers of security for the Enterprise, Universities and the Military that need it.
+  2. **Enhanced Security**: Containerization ensures extra layers of security for the Enterprise, Universities and the Military that need it.
 
-  - **Maintenance becomes way easier**: If a system crashed, gets affected by viruses or starts to slow down, then it can be restored back to its working state in a few seconds with just 2 clicks!
+  3. **Maintenance becomes way easier**: If a system crashed, gets affected by viruses or starts to slow down, then it can be restored back to its working state in a few seconds with just 2 clicks!
 
-  - **Deploying new systems for users is as simple as copying a file**: Clones of systems can be created in under seconds with just a few clicks.
+  4. **Deploying new systems for users is as simple as copying a file**: Clones of systems can be created in under seconds with just a few clicks.
 
-  - **Lower Price**: Ability to run multiple computers at potentially half the price of traditional parts.
+  5. **Lower Price**: Ability to run multiple computers at potentially half the price of traditional parts.
 
-  - **Multiple Users**: One Computer can be used by multiple simultaneous users.
+  6. **Multiple Users**: One Computer can be used by multiple simultaneous users.
 
 ![Before](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
 
@@ -61,11 +61,11 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
 ## Disadvantages:
 
-  - **Initial Setup is difficult and time consuming**
+  1. **Initial Setup is difficult and time consuming**
 
-  - **Setup may vary between various devices** 
+  2. **Setup may vary between various devices** 
 
-  - **Lack of customer awareness**
+  3. **Lack of customer awareness**
 
 **This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe. It has set a record-breaking setup time of 100 seconds that can be done easily with just ONE COMMAND!**
 
