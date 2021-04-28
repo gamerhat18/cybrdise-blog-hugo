@@ -74,9 +74,9 @@ On an average computer, with a decent internet connection, the setup has had a t
 
 ## Pre-requisites:
 
-1. Linux OS (Ubuntu/Fedora/Debian etc. will work just fine)
-2. Stable Internet Connection
-3. Multiple monitors (Optional)
+1. **Latest Linux based OS** (_Ubuntu/Fedora/Debian/Manjaro etc. will work great_)
+2. **Internet Connection**
+3. **Multiple monitors** (_Optional_)
 
 
 ## 🏅 Simple Install
