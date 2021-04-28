@@ -1,9 +1,9 @@
 +++
 title = "Quick VM Setup"
-date = "2021-01-15T15:20:32+05:30"
+date = "2021-04-25T15:20:32+05:30"
 author = "Pranav Kulkarni"
-authorTwitter = "gamerhat18" #do not include @
-cover = "" # "https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/thumbnails/android-debloat.png"
+authorTwitter = "thegamerhat" #do not include @
+cover = "" #
 tags = ["VM", "Virtual", "Machine", "Virtual Machine", "ASAP"]
 keywords = ["Linux", "Windows", "MacOS", "Mac OS", "Virtual Machine", "VM"]
 description = "An easy and quick way to bring VMs to masses and help people to switch to Linux from Windows/MacOS."
@@ -12,120 +12,23 @@ draft = false
 +++
 
 Take a look at the Project on GitHub:
-https://github.com/gamerhat18/quick-vm
+https://github.com/thegamerhat/quick-vm
 
-# Quick-VM (WORK IN PROGRESS)
+# Quick-VM
 
-Setup a Windows VM very easily and quickly on any Arch, Debian or Fedora system using RedHat KVM. 
+Windows 10 is used by many, in personal computers, enterprise, workstations, etc. Not because it is the best, nor because it is the fastest, or the most secure, but only because most do not know about the alternatives.
 
-### Make sure you rename both of the ISOs as following:
+Some of the practical problems including but not limited to:
 
-**Note:** Place the ISOs in `~/WindowsVM`, as this script points to that directory to find those ISOs. You can change the location in the `kvm/Windows10-Vanilla.xml` file if you prefer.
-**Windows 10 ISO** ➜ `win10.iso`
-**VirtIO Drivers** ➜ `virtio-win.iso`
+1. The latest windows update has even proved to be devastating for computers running Windows 10, as many users were stuck with a non-functioning computer altogether.
+https://www.windowslatest.com/2021/04/21/april-2021-patch-is-now-causing-trouble-for-more-windows-10-users/
 
-## One-liner to Setup KVM
-### Paste this in your terminal
+2. Windows Deleting your important files without your consent, which happened twice.
 
-```bash
-bash <(curl -sL https://git.io/JqtJc) 
- ```
+https://www.howtogeek.com/658194/windows-10s-new-update-is-deleting-peoples-files-again
 
-Here is the [Raw Script](https://raw.githubusercontent.com/gamerhat18/quick-vm/main/main.sh)
+https://www.theverge.com/2018/10/6/17944966/microsoft-windows-10-october-2018-update-documents-deleted-issues-windows-update-paused
 
-### Host System Requirements:
- 
-  - **Ubuntu 18.04** or newer
-  - **Fedora 30** or newer
-  - **Arch** (You can read this [Guide by LinuxHint](https://linuxhint.com/install_configure_kvm_archlinux) for permissions and User Group setup)
-  - **4 CPUs** (2 Hyperthreaded Cores at minimum, 1 vCPU is reserved for the host)
-  - **8 GiB Memory** (in total)
-  - **40-50 GiB of Storage Free** (For a typical install)
-> **Linux Kernel 5.4 LTS** or newer is recommended 
+https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-users-data
 
-### Default specs of the VM:
-
->**CPU**: 3 vCPUs Allocated
->
->**GPU**: You may Passthrough a GPU if you need using [ArchWiki](https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF) or [Single-GPU-Passthrough](https://github.com/joeknock90/Single-GPU-Passthrough) 
->
->**Memory**: Total 4 GiB, 1 GiB Allocated initially
->
->**Primary Drive**: 1 TB VirtIO Disk (Dynamically Allocated)
->
->**Secondary Drive**: Windows 10 ISO
->
->**Other Drives**: VirtIO Drivers ISO, Essential Tools ISO (to optimize VM performance)
->
->**Network Card**: VirtIO (Recommended Disabled until debloated)
-
-
-
-<p>
-<details>
-<summary>Manual Step-by-Step-Process</summary>
-<br>
-
-### First, you must install the required packages on your system. You may search the packages in your package manager or compile them yourself.
-
-<p>
-<details>
-<summary>Installing Dependencies</summary>
-<br>
-
-
-#### Install Qemu-KVM, Virt-Manager, Libvirt and other dependencies depending on your distro.
- 
- ```bash
-# Debian & Ubuntu (Linux Mint, PopOS, ElementaryOS)
-sudo apt install -y qemu qemu-kvm libvirt-bin libvirt-daemon libvirt-clients bridge-utils virt-manager
-``` 
-
- ```bash
-# Fedora based ditros  
-sudo dnf -y install qemu-kvm libvirt bridge-utils virt-install virt-manager
-``` 
-
-```bash
-# Arch (Manjaro, Arco Linux, EndeavourOS) 
-sudo pacman -S --noconfirm qemu libvirt bridge-utils edk2-ovmf vde2 ebtables dnsmasq openbsd-netcat virt-manager
- ```
-
-### After installing the dependencies, make sure you enable `libvirtd.service`
-
-```bash
- # Enable Libvirt Service
- sudo systemctl enable --now libvirtd
- ```
- 
-</br> 
-</details>
-</p>
- 
-**Note:** Any Linux distribution will work just fine. You do need to install `libvirt`, `virt-manager`, `qemu`, and other required dependencies.
-> **Linux Kernel 5.4 LTS** or newer is recommended
- 
-## Download the Windows 10 ISO and KVM VirtIO drivers
-You will need **Windows 10 Pro/Pro N**, as it has RDP Support which is needed if you want to run Windows Apps under Linux. You will also need drivers for VirtIO to ensure the best performance with the least overhead on your system.
- 
-- Download [VirtIO Drivers (Stable)](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso) from FedoraPeople
-
-- Download [Official Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) from Microsoft 
-
-> You may even supply your own custom Windows Image (like Windows Ameliorated Edition)
- 
-
-**Note:** Place the ISOs in `~/WindowsVM` , as this script points to that directory to find those ISOs. You can change the location in the `kvm/Windows10-Vanilla.xml` file if you prefer.
-
-
-### Make sure you rename both of the ISOs as following:
-
-**Windows 10 ISO** ➜ `win10.iso`
-
-**VirtIO Drivers** ➜ `virtio-win.iso`
-
-
-
-</br>
-</details>
-</p>
+3. 
