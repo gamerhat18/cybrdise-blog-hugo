@@ -2,11 +2,11 @@
 title = "About"
 date = "2021-01-1T13:00:00+05:30"
 author = "Pranav Kulkarni"
-authorTwitter = "gamerhat18" #do not include @
+authorTwitter = "thegamerhat" #do not include @
 cover = ""
-tags = ["Android", "Debloat"]
-keywords = ["Android", "debloat"]
-description = "An easy guide for android-debloat project"
+tags = ["about]
+keywords = ["Discord", "telegram", "twitter", "github"]
+description = "Who am I and Why does this blog exist?"
 showFullContent = false
 draft = false
 +++
