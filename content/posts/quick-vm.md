@@ -28,7 +28,7 @@ Windows 10 is used by many, in personal computers, enterprise, workstations, etc
     - [The Verge Article](https://www.theverge.com/2018/10/6/17944966/microsoft-windows-10-october-2018-update-documents-deleted-issues-windows-update-paused)
     - [Windows Central Article](https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-users-data)
 
-- **Security, or the lack thereof. **Millions of new Viruses and Malware EVERY MONTH**. Absolutely not worth explaining further, as everyone of us is aware about it.**
+- **Security, or the lack thereof. **Millions of new Viruses and Malware EVERY MONTH**. Absolutely not worth explaining further, as everyone is aware about it.**
 
 The problems have been amplified since the launch of Windows 10 and this situation has demanded a solution for millions in the past decade.
 
