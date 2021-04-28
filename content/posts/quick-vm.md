@@ -52,11 +52,10 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
 This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
 
-![Screenshot](https://raw.githubusercontent.com/thegamerhat/quick-vm/main/img/quickvm-1.png)
+![Before](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
 
-![Screenshot](https://raw.githubusercontent.com/thegamerhat/quick-vm/master/img/quickvm-2.png)
+![After](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
 
-![*Windows Submenu*](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/windows-start-submenu.png)
 
 ## Disadvantages:
 
