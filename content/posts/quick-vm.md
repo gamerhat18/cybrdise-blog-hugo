@@ -33,7 +33,6 @@ Windows 10 is used by many, in personal computers, enterprise, workstations, etc
 The problems have been amplified since the launch of Windows 10 and this situation has demanded a solution for millions in the past decade.
 
 Till now, many have attempted to use Linux/Mac in favour of switching away from Windows, but there were few applications only available on Windows. 
-
 Some of the most effective solutions to that include:
 
   - Using Linux and running Windows in a container (VM)
@@ -47,7 +46,7 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
   - **Enhanced Security**: Containerization ensures extra layers of security for the Enterprise, Universities and the Military that need it.
 
-  - **Low Price**: Ability to run multiple computers at potentially half the price of traditional parts.
+  - **Lower Price**: Ability to run multiple computers at potentially half the price of traditional parts.
 
   - **Multiple Users**: One Computer can be used by multiple simultaneous users.
 
@@ -57,4 +56,8 @@ This Quick-VM Project aims to bring the technology of Virtualization to the mass
 
   - **Initial Setup is difficult and time consuming**
 
-  -  
+  - **Setup may vary between various devices** 
+
+  - **Lack of customer awareness**
+
+This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
