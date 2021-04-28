@@ -35,8 +35,8 @@ The problems have been amplified since the launch of Windows 10 and this situati
 Till now, many have attempted to use Linux/Mac in favour of switching away from Windows, but there were few applications only available on Windows. 
 Some of the most effective solutions to that include:
 
-  - Using Linux and running Windows in a container (VM)
-  - Using older versions of Windows (Not suitable today)
+  - **Using Linux and running Windows in a container (VM)**
+  - **Using older versions of Windows (Not suitable today)**
 
 Running Windows in a Container is the best solution for the longer term, if the software you need isn't available on Linux/Mac. Some modifications are done following the initial install to optimize windows which will lead to better performance compared to a standard Windows computer.
 
@@ -54,9 +54,6 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
 ![After](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
 
-This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
-
-
 
 ## Disadvantages:
 
@@ -66,23 +63,23 @@ This Quick-VM Project aims to bring the technology of Virtualization to the mass
 
   - **Lack of customer awareness**
 
-This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
+**This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe. It has set a record-breaking setup time of 100 seconds that can be done easily with just ONE COMMAND!**
 
 # How to setup?
 
-This Project was a long time in making, and most of the work went into automating most of the things and documenting how everything works and the necessary tweaks along with troubleshooting steps.
+This Project was a long time in the making, and most of the work went into automating most of the things, documenting how everything works and the necessary tweaks along with troubleshooting steps.
 
-On an average computer, with a decent internet connection, the setup has had a total time of **100 Seconds**!
+On an average computer, with a decent internet connection, the setup has seen the lowest install time of **100 Seconds**!
 
 ## Pre-requisites:
 
-1. **Latest Linux based OS** (_Ubuntu/Fedora/Debian/Manjaro etc. will work great_)
+1. **Latest Linux based OS** (_Ubuntu/Fedora/Debian/Manjaro etc._)
 2. **Internet Connection**
 3. **Multiple monitors** (_Optional_)
 
 
 ## 🏅 Simple Install
-### Step 🥇 ➜ Step 🥈 ➜ Step 🥉
+#### Step 🥇 ➜ Step 🥈 ➜ Step 🥉
 
 ### 🥇 Getting ISOs Ready
 
@@ -105,6 +102,6 @@ bash <(wget -qO- https://git.io/JOeOs)
 
 ### 🥉 Getting the VM Ready:
 
-#### Follow this [Step by Step Guide](https://github.com/thegamerhat/quick-vm/blob/main/docs/diy-vm.md#creating-a-vm)
+#### Follow this [Step by Step Guide](https://github.com/thegamerhat/quick-vm/blob/main/docs/installing-windows-vm.md)
 
 ### 🎉 That's it, You have successfully created a VM!
