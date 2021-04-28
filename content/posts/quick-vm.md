@@ -46,6 +46,10 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
   - **Enhanced Security**: Containerization ensures extra layers of security for the Enterprise, Universities and the Military that need it.
 
+  - **Maintenance becomes way easier**: If a system crashed, gets affected by viruses or starts to slow down, then it can be restored back to its working state in a few seconds with just 2 clicks!
+
+  - **Deploying new systems for users is as simple as copying a file**: Clones of systems can be created in under seconds with just a few clicks.
+
   - **Lower Price**: Ability to run multiple computers at potentially half the price of traditional parts.
 
   - **Multiple Users**: One Computer can be used by multiple simultaneous users.
