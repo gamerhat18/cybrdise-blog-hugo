@@ -50,11 +50,12 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
   - **Multiple Users**: One Computer can be used by multiple simultaneous users.
 
-This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
-
 ![Before](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
 
 ![After](https://raw.githubusercontent.com/gamerhat18/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
+
+This Quick-VM Project aims to bring the technology of Virtualization to the masses, by not only providing a secure and faster way to use Windows, but also extending the lives of the already running computers across the globe.
+
 
 
 ## Disadvantages:
