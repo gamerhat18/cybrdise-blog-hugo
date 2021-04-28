@@ -31,4 +31,6 @@ https://www.theverge.com/2018/10/6/17944966/microsoft-windows-10-october-2018-up
 
 https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-users-data
 
-3. 
+3. Security, or the lack thereof. **Millions of new Viruses and Malware EVERY MONTH**. Absolutely not worth explaining further, as everyone of us is aware about it.
+
+
