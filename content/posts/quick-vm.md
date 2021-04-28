@@ -18,17 +18,17 @@ Summary of the [Quick-VM Project](https://github.com/thegamerhat/quick-vm) on Gi
 
 Windows 10 is used by many, in personal computers, enterprise, workstations, etc. Not because it is the best, nor because it is the fastest, or the most secure. Infact, quite the contrary as it is one of the most insecure and efficient.
 
-**Some of the practical problems including but not limited to:**
+## **Some of the practical problems including but not limited to:**
 
-1. The latest windows update has even proved to be devastating for computers running Windows 10, as many users were stuck with a non-functioning computer altogether.
-    - https://www.windowslatest.com/2021/04/21/april-2021-patch-is-now-causing-trouble-for-more-windows-10-users/
+- **The latest windows update has even proved to be devastating for computers running Windows 10, as many users were stuck with a non-functioning computer altogether.**
+    - [2021 Bootloop Bug](https://www.windowslatest.com/2021/04/21/april-2021-patch-is-now-causing-trouble-for-more-windows-10-users/)
 
-2. Windows Deleting your important files without your consent, which happened twice.
-    - https://www.howtogeek.com/658194/windows-10s-new-update-is-deleting-peoples-files-again
-    - https://www.theverge.com/2018/10/6/17944966/microsoft-windows-10-october-2018-update-documents-deleted-issues-windows-update-paused
-    - https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-users-data
+- **Windows Deleting your important files without your consent, which happened twice.**
+    - [How-To Geek Article](https://www.howtogeek.com/658194/windows-10s-new-update-is-deleting-peoples-files-again)
+    - [The Verge Article](https://www.theverge.com/2018/10/6/17944966/microsoft-windows-10-october-2018-update-documents-deleted-issues-windows-update-paused)
+    - [Windows Central Article](https://www.windowscentral.com/windows-10-october-2018-update-seems-be-deleting-users-data)
 
-3. Security, or the lack thereof. **Millions of new Viruses and Malware EVERY MONTH**. Absolutely not worth explaining further, as everyone of us is aware about it.
+- **Security, or the lack thereof. **Millions of new Viruses and Malware EVERY MONTH**. Absolutely not worth explaining further, as everyone of us is aware about it.**
 
 The problems have been amplified since the launch of Windows 10 and this situation has demanded a solution for millions in the past decade.
 
