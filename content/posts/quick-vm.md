@@ -83,7 +83,6 @@ On an average computer, with a decent internet connection, the setup has seen th
 2. **Internet Connection**
 3. **Multiple monitors** (_Optional_)
 
-
 ## 🏅 Simple Install
 #### Step 🥇 ➜ Step 🥈 ➜ Step 🥉
 
