@@ -56,10 +56,21 @@ Running Windows in a Container is the best solution for the longer term, if the 
 
   7. **Multiple Users**: One Computer can be used by multiple simultaneous users.
 
-![Before](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
+![Before1](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
 
-![After](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
+- **Figure**: Traditional Work Computer
 
+![After1](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
+
+- **Figure**: Workstation with Containerization
+
+![Before2](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm3.png)
+
+- **Figure**: Overall Picture before Containerization
+
+![After2](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm4.png)
+
+- **Figure**: Overall Picture after Containerization
 
 ## Disadvantages:
 
