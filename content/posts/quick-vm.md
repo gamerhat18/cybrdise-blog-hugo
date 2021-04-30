@@ -55,22 +55,22 @@ Running Windows in a Container is the best solution for the longer term, if the 
   6. **Improved Stability and Reliability**: Windows will last longer in working state compared to traditional windows based Workstations.
 
   7. **Multiple Users**: One Computer can be used by multiple simultaneous users.
+  
+- **Figure**: Traditional Work Computer
 
 ![Before1](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
 
-- **Figure**: Traditional Work Computer
+- **Figure**: Workstation with Containerization
 
 ![After1](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
 
-- **Figure**: Workstation with Containerization
+- **Figure**: Overall Picture before Containerization
 
 ![Before2](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm3.png)
 
-- **Figure**: Overall Picture before Containerization
+- **Figure**: Overall Picture after Containerization
 
 ![After2](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm4.png)
-
-- **Figure**: Overall Picture after Containerization
 
 ## Disadvantages:
 
