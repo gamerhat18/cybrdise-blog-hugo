@@ -16,7 +16,7 @@ draft = false
 
 Summary of the [Quick-VM Project](https://github.com/thegamerhat/quick-vm) on GitHub.
 
-Windows 10 is used by many, in personal computers, enterprise, workstations, etc. Not because it is the best, nor because it is the fastest, or the most secure. Infact, quite the contrary as it is one of the most insecure and efficient OS out there.
+Windows 10 is used by many, in personal computers, enterprise, workstations, etc. Not because it is the best, nor because it is the fastest, or the most secure. Infact, quite the contrary as it is one of the most insecure and inefficient OS out there.
 
 ## **Some of the practical problems including but not limited to:**
 
