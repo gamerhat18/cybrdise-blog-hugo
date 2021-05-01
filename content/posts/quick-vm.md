@@ -58,19 +58,19 @@ Running Windows in a Container is the best solution for the longer term, if the 
   
 - **Figure**: Traditional Work Computer
 
-![Before1](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
+![Before Containerization](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm1.png)
 
 - **Figure**: Workstation with Containerization
 
-![After1](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
+![After Containerization](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm2.png)
 
 - **Figure**: Overall Picture before Containerization
 
-![Before2](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm3.png)
+![Before VMs](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm3.png)
 
 - **Figure**: Overall Picture after Containerization
 
-![After2](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm4.png)
+![After VMs](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/quickvm4.png)
 
 ## Disadvantages:
 
@@ -115,6 +115,12 @@ On an average computer, with a decent internet connection, the setup has seen th
 ```bash
 bash <(wget -qO- https://git.io/JOeOs)
  ```
+ 
+After running the command, you'll see a prompt like this. 
+
+![One-Liner](https://raw.githubusercontent.com/thegamerhat/cybrdise-blog-hugo/master/content/posts/images/oneliner.png)
+
+**Select** `1` for **Automated Install**
 
 ### 🥉 Getting the VM Ready:
 
