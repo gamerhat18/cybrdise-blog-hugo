@@ -21,8 +21,8 @@ Hope it helps you in some or the other way.
 
 # Where to find me?
 
-**Telegram** -> @[gamer_hat](https://t.me/gamer_hat)
+**Telegram** -> @[thegamerhat](https://t.me/thegamerhat)
 
 **Discord** -> gamerhat#2074
 
-**Twitter** -> [gamerhat18](https://twitter.com/gamerhat18)
+**Twitter** -> [thegamerhat](https://twitter.com/thegamerhat)
