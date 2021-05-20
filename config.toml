@@ -43,8 +43,11 @@ paginate = 15
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "gamerhat18"
+  creator = "thegamerhat"
   site = "https://cybrdise.com"
+
+[permalinks]
+  posts = "/:title/"
 
 [languages]
   [languages.en]
