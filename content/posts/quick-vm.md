@@ -96,9 +96,9 @@ On an average computer, with a decent internet connection, the setup has seen th
 3. **Multiple monitors** (_Optional_)
 
 ## 🏅 Simple Install
-#### Step 🥇 ➜ Step 🥈 ➜ Step 🥉
+#### Step 1️⃣ ➜ Step 2️⃣ ➜ Step 3️⃣
 
-### 🥇 Getting ISOs Ready
+### 1️⃣ Getting ISOs Ready
 
 1. **Download** [Windows 10 Pro ISO](https://www.microsoft.com/en-us/software-download/windows10ISO), **and** [VirtIO Drivers (Stable)](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso)
 
@@ -109,7 +109,7 @@ On an average computer, with a decent internet connection, the setup has seen th
     - **VirtIO Drivers** ➜ `virtio-win.iso`
 
 
-### 🥈 One-liner to Setup KVM
+### 2️⃣ One-liner to Setup KVM
 
 #### Paste this in your terminal
 
@@ -123,7 +123,7 @@ After running the command, you'll see a prompt like this.
 
 **Select** `1` for **Automated Install**
 
-### 🥉 Getting the VM Ready:
+### 3️⃣ Getting the VM Ready:
 
 #### Follow this [Step by Step Guide](https://github.com/thegamerhat/quick-vm/blob/main/docs/installing-windows-vm.md)
 
