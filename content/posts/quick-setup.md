@@ -1,5 +1,6 @@
 ---
 title: "Quick Setup"
+seo-title: "quick-setup"
 date: 2021-01-16T12:02:16+05:30
 author: "Pranav Kulkarni"
 authorTwitter: "gamerhat18" #do not include @

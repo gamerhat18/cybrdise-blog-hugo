@@ -47,7 +47,7 @@ paginate = 15
   site = "https://cybrdise.com"
 
 [permalinks]
-  posts = "/:title/"
+  posts = "/:seo-title/"
 
 [languages]
   [languages.en]

@@ -1,5 +1,6 @@
 +++
 title = "Quick VM Setup"
+seo-title = "quick-vm"
 date = "2021-04-25T15:20:32+05:30"
 author = "Pranav Kulkarni"
 authorTwitter = "thegamerhat" #do not include @
